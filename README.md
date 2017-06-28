@@ -27,7 +27,7 @@ e.refresh()
 ```
 
 #### Connections ####
-[raspberry connections]: https://github.com/5in4/epaper-waveshare-python/blob/master/connections.jpg
+![raspberry connections](https://github.com/5in4/epaper-waveshare-python/blob/master/connections.jpg)
 
 
 ### Todo ###
